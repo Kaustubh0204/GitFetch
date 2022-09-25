@@ -1,0 +1,66 @@
+body{
+    background-color: #0D1117;
+}
+
+.uppersection{
+    background-color: #17161B; 
+    padding: 15px; 
+    border-radius: 1vw;
+}
+
+.searchbtn{
+    background-color: #1D1D26; 
+    border-color: aquamarine;
+}
+
+.searchbox{
+    background-color: #1D1D26; color: white; border-color: aquamarine;
+}
+
+.maincontainer{
+    color: white; border-style: solid; border-color:aquamarine; border-width: 0.5px; padding: 2vw;
+}
+
+.avatar{
+    height: 8vw; 
+    width:8vw; 
+    border-radius: 50%;
+}
+
+.username{
+    color: aquamarine;
+}
+
+.userinfo{
+    color: aquamarine;
+}
+
+.breaker{
+    color: #17161B; 
+    opacity: 100%;
+}
+
+.pagebtn{
+    background-color: #1D1D26; 
+    color: aquamarine; 
+    border-color: aquamarine;
+}
+
+.pagebtn:hover{
+    background-color: grey;
+    color: black; 
+    cursor: pointer;
+
+}
+
+.pagebtn2{
+    background-color: #1D1D26; 
+    color: aquamarine; 
+    border-color: aquamarine;
+}
+
+.pagebtn2:hover{
+    background-color: #1D1D26; 
+    color: aquamarine; 
+    border-color: aquamarine;
+}
